@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Primary;
 import javax.sql.DataSource;
 
 /**
+ * 数据源配置
  * Created by zhaihuilin on 2017/10/24  12:12.
  */
 @Configuration
