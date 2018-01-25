@@ -18,6 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
+ * aop 切入类
  * Created by zhaihuilin on 2018/1/18  13:47.
  */
 @Aspect
